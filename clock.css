@@ -1,0 +1,42 @@
+﻿/* CopyRight Guido Leen */
+/*   7 FEBRUARY 2017    */
+html, body {
+    font-family: 'Quicksand', sans-serif;
+}
+
+#clock {
+    left: 200px;
+    top: 200px;
+    position: absolute;
+}
+
+.clock-nr {
+    position: absolute;
+}
+
+.clock-hlght {
+    background: #ff0000;
+    color: #fff;
+    width: 20px;
+    height: 20px;
+    text-align: center;
+    border-radius: 20px;
+}
+
+.clock-sec {
+    background: #ff0000;
+    color: #fff;
+    width: 10px;
+    height: 10px;
+    text-align: center;
+    border-radius: 20px;
+}
+
+.clock-min {
+    background: #ff0000;
+    color: #fff;
+    width: 10px;
+    height: 10px;
+    text-align: center;
+    border-radius: 20px;
+}
